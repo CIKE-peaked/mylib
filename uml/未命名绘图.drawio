@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-03T08:28:55.598Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="wkRtu4N7OVuBuRhG8Ys-" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-03T08:29:08.535Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="j2tIP2bzJ5qr2iUlQMk_" version="24.3.1" type="github">
   <diagram name="第 1 页" id="DyiFokyh11b5_R4TEu2i">
     <mxGraphModel dx="1669" dy="1035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -131,25 +131,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Se096HdeVijuc_GV13Js-57" value="数据加工/转换" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="734" width="120" height="60" as="geometry" />
+          <mxGeometry x="1285" y="734" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Se096HdeVijuc_GV13Js-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Se096HdeVijuc_GV13Js-59" target="Se096HdeVijuc_GV13Js-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Se096HdeVijuc_GV13Js-59" value="数据上屏" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="734" width="120" height="60" as="geometry" />
+          <mxGeometry x="1455" y="734" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Se096HdeVijuc_GV13Js-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Se096HdeVijuc_GV13Js-61" target="Se096HdeVijuc_GV13Js-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Se096HdeVijuc_GV13Js-61" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;结果确认&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1638" y="733.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="1603" y="733.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Se096HdeVijuc_GV13Js-67" value="&lt;font face=&quot;榛戜綋&quot;&gt;&lt;span style=&quot;font-size: 10.4px;&quot;&gt;对公共数据进行治理&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;align=center;" vertex="1" parent="1">
           <mxGeometry x="1189" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Se096HdeVijuc_GV13Js-71" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1800" y="733.5" width="100" height="60" as="geometry" />
+          <mxGeometry x="1765" y="733.5" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
