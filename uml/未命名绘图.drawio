@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-03T08:38:23.330Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="H_1aiILDcJ5In9KEt3qH" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-03T08:41:01.907Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="qE4fRdtPQW4UyTAebGaP" version="24.3.1" type="github">
   <diagram name="第 1 页" id="DyiFokyh11b5_R4TEu2i">
     <mxGraphModel dx="1669" dy="1035" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -158,6 +158,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="760" y="920" as="sourcePoint" />
             <mxPoint x="760" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Se096HdeVijuc_GV13Js-108" value="数据平台范围" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Se096HdeVijuc_GV13Js-101">
+          <mxGeometry x="-0.7406" y="2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Se096HdeVijuc_GV13Js-102" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
