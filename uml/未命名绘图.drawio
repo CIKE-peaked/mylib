@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-03T08:13:54.353Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="JwxBc3IU8OLzTkqrtzHV" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-03T08:14:49.680Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="UPrat66AWNZq1eRXIwMj" version="24.3.1" type="github">
   <diagram name="第 1 页" id="DyiFokyh11b5_R4TEu2i">
     <mxGraphModel dx="1148" dy="711" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,6 +88,9 @@
         <mxCell id="Se096HdeVijuc_GV13Js-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Se096HdeVijuc_GV13Js-42" target="Se096HdeVijuc_GV13Js-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Se096HdeVijuc_GV13Js-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Se096HdeVijuc_GV13Js-42" target="Se096HdeVijuc_GV13Js-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Se096HdeVijuc_GV13Js-42" value="&lt;div&gt;&lt;span style=&quot;font-size: 7.8pt; font-family: 榛戜綋;&quot;&gt;数据业务治理&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 7.825pt; font-family: Calibri;&quot;&gt;1. &lt;/span&gt;&lt;span style=&quot;font-size: 7.825pt; font-family: 榛戜綋;&quot;&gt;对业务数据进行&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 7.8pt; font-family: 榛戜綋;&quot;&gt;治理&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 7.825pt; font-family: Calibri;&quot;&gt;2. &lt;/span&gt;&lt;span style=&quot;font-size: 7.825pt; font-family: 榛戜綋;&quot;&gt;与业务部门沟通&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 7.8pt; font-family: 榛戜綋;&quot;&gt;确认业务数据治理&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 7.8pt; font-family: 榛戜綋;&quot;&gt;规则&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="989" y="815" width="120" height="95" as="geometry" />
         </mxCell>
@@ -108,6 +111,21 @@
         </mxCell>
         <mxCell id="Se096HdeVijuc_GV13Js-55" value="共享审批流程" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1189" y="1007.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Se096HdeVijuc_GV13Js-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Se096HdeVijuc_GV13Js-57" target="Se096HdeVijuc_GV13Js-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Se096HdeVijuc_GV13Js-57" value="数据加工/转换" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1189" y="832.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Se096HdeVijuc_GV13Js-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Se096HdeVijuc_GV13Js-59" target="Se096HdeVijuc_GV13Js-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Se096HdeVijuc_GV13Js-59" value="数据上屏" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1389" y="832.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Se096HdeVijuc_GV13Js-61" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;结果确认&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1589" y="832.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
