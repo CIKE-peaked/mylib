@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-06T01:08:23.845Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="t5YljziudRhV78dMFdwp" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-06T01:08:44.430Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="-UpBSQWEK9caTiiiB6AJ" version="24.3.1" type="github">
   <diagram name="第 1 页" id="DyiFokyh11b5_R4TEu2i">
     <mxGraphModel dx="1042" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -106,7 +106,7 @@
         <mxCell id="Se096HdeVijuc_GV13Js-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;textShadow=0;" parent="1" source="Se096HdeVijuc_GV13Js-42" target="Se096HdeVijuc_GV13Js-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Se096HdeVijuc_GV13Js-42" value="&lt;div&gt;&lt;font face=&quot;榛戜綋&quot;&gt;&lt;span style=&quot;font-size: 10.4px;&quot;&gt;数据业务治理&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;榛戜綋&quot;&gt;&lt;span style=&quot;font-size: 10.4px;&quot;&gt;1. 与业务部门沟通确认业务数据治理规则，并实施规则&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;align=left;textShadow=0;rounded=1;" parent="1" vertex="1">
+        <mxCell id="Se096HdeVijuc_GV13Js-42" value="&lt;div&gt;&lt;font face=&quot;榛戜綋&quot;&gt;&lt;span style=&quot;font-size: 10.4px;&quot;&gt;业务&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-family: 榛戜綋; font-size: 10.4px; background-color: initial;&quot;&gt;数据&lt;/span&gt;&lt;span style=&quot;font-size: 10.4px; font-family: 榛戜綋; background-color: initial;&quot;&gt;治理&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;榛戜綋&quot;&gt;&lt;span style=&quot;font-size: 10.4px;&quot;&gt;1. 与业务部门沟通确认业务数据治理规则，并实施规则&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;align=left;textShadow=0;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="989" y="673" width="120" height="77" as="geometry" />
         </mxCell>
         <mxCell id="Se096HdeVijuc_GV13Js-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;textShadow=0;" parent="1" source="Se096HdeVijuc_GV13Js-44" target="Se096HdeVijuc_GV13Js-55" edge="1">
